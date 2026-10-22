@@ -1,12 +1,17 @@
 # 🎯 Customer Churn Intelligence: AI-Powered Retention Analytics
 
+[![Live Demo](https://img.shields.io/badge/Streamlit%20Cloud-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://synent-task9-customerchurnprediction-avanthiga-mewlspr5hsthrhv.streamlit.app/)
+
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-SaaS%20App-FF4B4B.svg)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-SaaS%20App-FF4B4B.svg)](https://synent-task9-customerchurnprediction-avanthiga-mewlspr5hsthrhv.streamlit.app/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange.svg)](https://scikit-learn.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-4B6BFB.svg)](https://plotly.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 An enterprise-grade Customer Churn Prediction and Strategic Retention Platform. Built with **Streamlit**, **Scikit-Learn**, and **Plotly**, this platform transforms predictive machine learning models into an interactive, decision-support SaaS system for customer success and retention executives.
+
+> 🌐 **Live Deployed App**: Access the interactive dashboard on Streamlit Community Cloud:  
+> 🔗 **[synent-task9-customerchurnprediction-avanthiga.streamlit.app](https://synent-task9-customerchurnprediction-avanthiga-mewlspr5hsthrhv.streamlit.app/)**
 
 ---
 
@@ -120,7 +125,14 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Application
+## 🌐 Live Cloud Deployment
+
+Access the deployed production application directly online without local configuration:
+- 🔗 **Streamlit Cloud URL**: [https://synent-task9-customerchurnprediction-avanthiga-mewlspr5hsthrhv.streamlit.app/](https://synent-task9-customerchurnprediction-avanthiga-mewlspr5hsthrhv.streamlit.app/)
+
+---
+
+## ▶️ Running the Application Locally
 
 Launch the Streamlit dashboard:
 
